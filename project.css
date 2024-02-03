@@ -1,0 +1,337 @@
+* {
+padding:0px;
+margin:0px;
+
+}
+body,html{
+font-family: Roboto ,sans-serif, Arial;
+background-color: rgb(235, 230, 235) ;
+}
+
+.width-100{
+width:1510px;
+/*margin: auto;*/
+padding:5px 2px;
+background-color: #8b32a6;
+border-bottom:2px solid rgb(65,3,82);
+}
+
+.container{
+    width:auto;
+    margin:0px auto;
+}
+
+/*.top-header{
+padding:5px 0px;
+background-color: #66c952;
+border-bottom:2px solid #1c8a07;
+}*/
+
+.news-list{
+    background-color: white;
+    color: red;
+padding:4px ;
+font-size:20px;
+margin:4px;
+}
+
+.headquote{
+color: rgb(2, 14, 14);
+font-size: 18px;
+width:90%;
+}
+
+.width-1002{
+position: relative;
+box-shadow: 0px 2px 5px 0px #00000036; 
+}
+
+.logo{
+width: fit-content;
+float: left;
+}
+
+.main-menu{
+list-style: none;
+float:right;
+margin-top: 20px;
+}
+
+.main-menu a{
+    font-weight: 500;
+    color: rgb(59, 38, 254);
+font-size:20px;
+text-decoration: none;
+}
+
+.main-menu li{
+float:left;
+padding:1px 15px;
+}
+
+.slider-width{
+    width:100%;
+    height:auto;
+    background-color: rgb(235, 230, 235);
+}
+
+.Margin-top-50{
+margin-top: 50px;
+}
+
+.width-33{
+width:33%;
+float: left;
+}
+
+.latest-news{
+margin-left: 0px;
+margin-right: 10px;
+margin-bottom: 30px;
+background-color: white;
+height:250px;
+padding:8px;
+
+}
+
+.Heading-sect{
+ width:100%;
+ float:left;
+ border-bottom: 1px solid rgb(19, 149, 229);
+ padding-bottom: 5px;
+ margin-bottom: 15px;
+ padding-top: 5px;
+ padding-left: 5px;
+ border: 1px solid rgb(174, 20, 198);
+ background: rgb(143, 19, 135);
+ color: azure;
+}
+
+.Head-title{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+.Latest-news-ul{
+padding:0px;
+list-style: none;
+line-height: 40px;
+}
+
+.course-list{
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    background-color: white;
+    height:250px;
+    padding:8px;
+
+}
+
+.upcoming-course-list{
+    padding:0px ;
+    list-style: none;
+}
+
+.upcoming-course-list li{
+    padding:0px ;
+    list-style: none;
+}
+
+.course{
+    background-color: rgb(138, 18, 172);
+    width: 0px;
+    float: left;
+    text-align: center;
+    font-size: 10px;
+    padding: 8px;
+    margin-right: 10px;
+    color: rgb(60, 150, 240);
+
+}
+
+.notice-board{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    background-color: rgba(249, 251, 252, 0.96);
+    height:250px;
+    padding:8px;
+}
+
+.notice-board-list{
+    padding:0px ;
+    list-style: none;
+    line-height: 20px;
+}
+
+.notice-board-list li{
+    width: 100%;
+    float: left;
+    margin-bottom:15px ;
+}
+
+.our-course{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    background-color: rgba(249, 251, 252, 0.96);
+    height:300px;
+    padding:8px;
+}
+
+.Course-overview-ul{
+list-style: none;
+}
+
+.Course-overview-ul li{
+margin-bottom: 15px;
+padding-bottom: 15x;
+border-bottom: 1px solid white ;
+}
+
+.Course-overview-ul a{
+text-decoration: none;
+font-weight: bold;
+color: black;
+}
+
+.faculty-sec-style{
+margin-bottom: 30px ;
+border-bottom:1px solid white ;
+padding-bottom: 30px;
+}
+
+.bachelor-fac{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    padding-left: 20px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.faculty-img{
+width:100%;
+}
+
+.width-40{
+width: 40%;
+float: left ;
+}
+
+.width-60{
+width: 60% ;
+float:left;
+}
+
+.about-us{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    background-color: rgba(249, 251, 252, 0.96);
+    height:300px;
+    padding:8px;
+}
+
+.logo30{
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    background-color: rgba(235, 230, 235);
+    height:300px;
+    padding:8px;
+}
+
+.width-1007{
+    width: 446px;
+    padding: 5px 2px;
+    height: 250px;
+  }
+
+  .gallery-head-style{
+font-size:28px;
+color: rgb(105, 10, 131);
+background-color: rgb(235, 230, 235);
+margin-bottom: 5px;
+padding: 2px 0px;
+  }
+
+  .width-25{
+width: 25%;
+float: left;
+  }
+
+  .gallery-img{
+width: auto;
+height: 250px;
+  }
+
+ .recruiter-head-style{
+margin-bottom: 5px;
+color: rgb(120, 21, 147);
+font-size: 30px;
+background-color: rgb(235, 230, 235);
+  }
+
+ .recruiter-marquee{
+height: 100px;
+ } 
+
+ .recruiter-marquee img{
+    height: 100px;
+    width: 350px;
+ }
+
+ .quicklink-heading{
+font-size: 18px;
+font-weight: bold;
+color: white;
+margin-bottom: 10px;
+ }
+
+ .quicklink-menu{
+list-style: none;
+padding-left: 10px;
+ }
+
+ .quicklink-menu li a{
+color: white;
+line-height: 2.5;
+font-size: 15px;
+text-decoration: none;
+ }
+
+ .footer{
+    padding: 50px 0px;
+    background-color: #232f3e ;
+    height: 200px;
+ }
+
+ .get-in-touch{
+    color: white;
+    line-height: 2;
+ }
+
+ .get-in-touch li a{
+    color:rgb(251, 249, 249);
+ }
+
+ .get-in-touch li i{
+    color: orangered;
+ }
+
+ .get-in-touch li p{
+    color: aqua;
+ }
+
+ .get-in-touch li div{
+    color: rgb(235, 224, 66);
+ }
+
+ .get-in-touch li pre{
+    color: green;
+ }
